@@ -8742,7 +8742,7 @@
 			(uuid "49286784-e634-42aa-8eeb-29c6c45b4c4b")
 		)
 		(instances
-			(project ""
+			(project "prism_mainboard"
 				(path "/1d5f25f9-3e6f-41df-a8ec-41fc885bea9a/ed55ae76-cb56-491a-ab76-f24834598540"
 					(reference "U1")
 					(unit 4)

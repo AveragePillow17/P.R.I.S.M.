@@ -674,6 +674,10 @@
       "Root"
     ],
     [
+      "e612cd2a-0a40-4375-afe6-e4571169c10b",
+      "Block Diagram"
+    ],
+    [
       "791998e1-2637-477d-9574-9d7bdd8d0188",
       "UnitA"
     ],
@@ -688,6 +692,22 @@
     [
       "ed55ae76-cb56-491a-ab76-f24834598540",
       "UnitD"
+    ],
+    [
+      "2fdb70e6-73b6-44a0-9464-64831d844f2c",
+      "Power_System"
+    ],
+    [
+      "d5b8a5e9-3292-44fa-8d30-d1f917a322d3",
+      "LMS7002M_A"
+    ],
+    [
+      "fd1a753b-faa9-4e52-8925-6fff00b7e231",
+      "LMS7002M_B"
+    ],
+    [
+      "b40290fd-d582-4beb-9283-0a0dbadac2d7",
+      "LMS7002M_C"
     ]
   ],
   "text_variables": {},
