@@ -1,0 +1,197 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "1d5f25f9-3e6f-41df-a8ec-41fc885bea9a")
+	(paper "A4")
+	(title_block
+		(title "PRISM MAINBOARD")
+		(date "2026-05-15")
+		(rev "v0.01")
+		(company "Stark Interests")
+	)
+	(lib_symbols)
+	(sheet
+		(at 24.13 76.2)
+		(size 68.58 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "68361ba6-8442-4566-9066-2668ba246f17")
+		(property "Sheetname" "UnitB"
+			(at 24.13 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "UnitB.kicad_sch"
+			(at 24.13 117.4246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 24.13 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "prism_mainboard"
+				(path "/1d5f25f9-3e6f-41df-a8ec-41fc885bea9a"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 24.13 133.35)
+		(size 69.85 44.45)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6a19c534-ad1d-410f-95b8-b8e3133549ef")
+		(property "Sheetname" "UnitC"
+			(at 24.13 132.6384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "UnitC.kicad_sch"
+			(at 24.13 178.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "prism_mainboard"
+				(path "/1d5f25f9-3e6f-41df-a8ec-41fc885bea9a"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 24.13 21.59)
+		(size 68.58 46.99)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "791998e1-2637-477d-9574-9d7bdd8d0188")
+		(property "Sheetname" "UnitA"
+			(at 24.13 20.8784 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "UnitA.kicad_sch"
+			(at 24.13 69.1646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "prism_mainboard"
+				(path "/1d5f25f9-3e6f-41df-a8ec-41fc885bea9a"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 101.6 21.59)
+		(size 69.85 48.26)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ed55ae76-cb56-491a-ab76-f24834598540")
+		(property "Sheetname" "UnitD"
+			(at 101.6 20.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "UnitD.kicad_sch"
+			(at 101.6 70.4346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "prism_mainboard"
+				(path "/1d5f25f9-3e6f-41df-a8ec-41fc885bea9a"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
