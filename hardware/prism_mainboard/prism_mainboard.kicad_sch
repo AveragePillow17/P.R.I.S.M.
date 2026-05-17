@@ -12,6 +12,48 @@
 	)
 	(lib_symbols)
 	(sheet
+		(at 187.96 130.81)
+		(size 85.09 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2fdb70e6-73b6-44a0-9464-64831d844f2c")
+		(property "Sheetname" "Power_System"
+			(at 187.96 130.0984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power_System.kicad_sch"
+			(at 187.96 135.2046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "prism_mainboard"
+				(path "/1d5f25f9-3e6f-41df-a8ec-41fc885bea9a"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 24.13 76.2)
 		(size 68.58 40.64)
 		(exclude_from_sim no)
@@ -56,7 +98,7 @@
 		(instances
 			(project "prism_mainboard"
 				(path "/1d5f25f9-3e6f-41df-a8ec-41fc885bea9a"
-					(page "3")
+					(page "4")
 				)
 			)
 		)
@@ -98,7 +140,7 @@
 		(instances
 			(project "prism_mainboard"
 				(path "/1d5f25f9-3e6f-41df-a8ec-41fc885bea9a"
-					(page "4")
+					(page "5")
 				)
 			)
 		)
@@ -131,6 +173,132 @@
 		)
 		(property "Sheetfile" "UnitA.kicad_sch"
 			(at 24.13 69.1646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "prism_mainboard"
+				(path "/1d5f25f9-3e6f-41df-a8ec-41fc885bea9a"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 187.96 158.75)
+		(size 85.09 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b40290fd-d582-4beb-9283-0a0dbadac2d7")
+		(property "Sheetname" "LMS7002M_C"
+			(at 187.96 158.0384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LMS7002M_C.kicad_sch"
+			(at 187.96 163.1446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "prism_mainboard"
+				(path "/1d5f25f9-3e6f-41df-a8ec-41fc885bea9a"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 187.96 140.97)
+		(size 85.09 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d5b8a5e9-3292-44fa-8d30-d1f917a322d3")
+		(property "Sheetname" "LMS7002M_A"
+			(at 187.96 140.2584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LMS7002M_A.kicad_sch"
+			(at 187.96 145.3646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "prism_mainboard"
+				(path "/1d5f25f9-3e6f-41df-a8ec-41fc885bea9a"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 105.41 80.01)
+		(size 66.04 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e612cd2a-0a40-4375-afe6-e4571169c10b")
+		(property "Sheetname" "Block Diagram"
+			(at 105.41 79.2984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "block_diagram.kicad_sch"
+			(at 105.41 118.6946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -183,7 +351,49 @@
 		(instances
 			(project "prism_mainboard"
 				(path "/1d5f25f9-3e6f-41df-a8ec-41fc885bea9a"
-					(page "5")
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 187.96 149.86)
+		(size 85.09 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fd1a753b-faa9-4e52-8925-6fff00b7e231")
+		(property "Sheetname" "LMS7002M_B"
+			(at 187.96 149.1484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LMS7002M_B.kicad_sch"
+			(at 187.96 154.2546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "prism_mainboard"
+				(path "/1d5f25f9-3e6f-41df-a8ec-41fc885bea9a"
+					(page "9")
 				)
 			)
 		)

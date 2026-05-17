@@ -8021,7 +8021,7 @@
 			(uuid "5423a999-f67a-46ed-b364-7490ae8cd864")
 		)
 		(instances
-			(project ""
+			(project "prism_mainboard"
 				(path "/1d5f25f9-3e6f-41df-a8ec-41fc885bea9a/791998e1-2637-477d-9574-9d7bdd8d0188"
 					(reference "C4")
 					(unit 1)
@@ -8090,7 +8090,7 @@
 			(uuid "ec595031-d8de-45e5-acf4-ac4f522d34ed")
 		)
 		(instances
-			(project ""
+			(project "prism_mainboard"
 				(path "/1d5f25f9-3e6f-41df-a8ec-41fc885bea9a/791998e1-2637-477d-9574-9d7bdd8d0188"
 					(reference "C2")
 					(unit 1)
@@ -9489,7 +9489,7 @@
 			(uuid "bd19e6b8-5564-40e8-98ac-63e7ac00b657")
 		)
 		(instances
-			(project ""
+			(project "prism_mainboard"
 				(path "/1d5f25f9-3e6f-41df-a8ec-41fc885bea9a/791998e1-2637-477d-9574-9d7bdd8d0188"
 					(reference "U1")
 					(unit 1)
@@ -9627,7 +9627,7 @@
 			(uuid "cbfef9e1-d3b0-4e5f-9456-dc6ec0a2c526")
 		)
 		(instances
-			(project ""
+			(project "prism_mainboard"
 				(path "/1d5f25f9-3e6f-41df-a8ec-41fc885bea9a/791998e1-2637-477d-9574-9d7bdd8d0188"
 					(reference "C1")
 					(unit 1)
@@ -9693,7 +9693,7 @@
 			(uuid "ca706428-ab0c-493b-be79-8fc6a11774eb")
 		)
 		(instances
-			(project ""
+			(project "prism_mainboard"
 				(path "/1d5f25f9-3e6f-41df-a8ec-41fc885bea9a/791998e1-2637-477d-9574-9d7bdd8d0188"
 					(reference "#PWR01")
 					(unit 1)
@@ -9762,7 +9762,7 @@
 			(uuid "cdee3176-1a08-4485-a686-81ffa88b72ee")
 		)
 		(instances
-			(project ""
+			(project "prism_mainboard"
 				(path "/1d5f25f9-3e6f-41df-a8ec-41fc885bea9a/791998e1-2637-477d-9574-9d7bdd8d0188"
 					(reference "C3")
 					(unit 1)

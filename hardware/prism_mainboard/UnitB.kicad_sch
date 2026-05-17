@@ -8808,7 +8808,7 @@
 			(uuid "dac45a92-1382-40af-9e76-89cfa9b4d59d")
 		)
 		(instances
-			(project ""
+			(project "prism_mainboard"
 				(path "/1d5f25f9-3e6f-41df-a8ec-41fc885bea9a/68361ba6-8442-4566-9066-2668ba246f17"
 					(reference "U1")
 					(unit 2)

@@ -1,0 +1,184 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "ca239f91-72f3-4bff-a100-07d8e982f6db")
+	(paper "A4")
+	(lib_symbols)
+	(global_label "VCCINT"
+		(shape input)
+		(at 16.51 17.78 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0f42e282-d932-43e3-98bd-ae7c5e6d5cb0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 26.0267 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "VCC_USB"
+		(shape input)
+		(at 52.07 17.78 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "332ef875-0321-4d5a-a77c-bad10dc55911")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 63.4614 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "VCC_Batt"
+		(shape input)
+		(at 52.07 22.86 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "45228cf8-6479-45ac-a267-157b9f80bacc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 63.5218 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "VCCPINT"
+		(shape input)
+		(at 35.56 17.78 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7955b412-1e04-431c-95d0-c0dcd4f592e0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 46.3467 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "VCCBRAM"
+		(shape input)
+		(at 16.51 22.86 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9c60f462-db71-4d79-9e83-125cd98117e3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 28.2038 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "VCCO"
+		(shape input)
+		(at 16.51 33.02 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b95ad741-fcfa-4d78-b257-ecf29445bac0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 24.4543 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "VCCAUX"
+		(shape input)
+		(at 16.51 27.94 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c54fbc5e-4de4-4272-bb2f-62c2cb90cb3b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 26.7524 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "VCCPAUX"
+		(shape input)
+		(at 35.56 27.94 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "dc04f5ad-9449-47dd-9cff-bdebfd774236")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 47.0724 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+)
