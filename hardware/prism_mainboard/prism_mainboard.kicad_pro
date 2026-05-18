@@ -240,7 +240,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "v0.01"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -508,13 +508,14 @@
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
+        "tuning_profile": "",
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
       }
     ],
     "meta": {
-      "version": 4
+      "version": 5
     },
     "net_colors": null,
     "netclass_assignments": null,
@@ -662,16 +663,16 @@
       {
         "filename": "prism_mainboard.kicad_sch",
         "name": "prism_mainboard",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "1d5f25f9-3e6f-41df-a8ec-41fc885bea9a"
       }
     ],
-    "used_designators": "",
+    "used_designators": "U3-5,C8-15,L1-2,#PWR3-16",
     "variants": []
   },
   "sheets": [
     [
       "1d5f25f9-3e6f-41df-a8ec-41fc885bea9a",
-      "Root"
+      "prism_mainboard"
     ],
     [
       "e612cd2a-0a40-4375-afe6-e4571169c10b",
