@@ -1,0 +1,12 @@
+(kicad_sch (version 20240702) (generator "protoflow")
+  (uuid "bfb3d8e1-84d1-4368-aca9-32bc57246c5a")
+  (paper "A4")
+  (title_block
+    (title "PRISM_mainboard")
+    (rev "1.0")
+    (company "Protoflow")
+  )
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

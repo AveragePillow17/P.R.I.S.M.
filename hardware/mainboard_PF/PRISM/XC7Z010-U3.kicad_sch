@@ -1,0 +1,12 @@
+(kicad_sch (version 20240702) (generator "protoflow")
+  (uuid "81252102-d7fd-42b1-a1a8-dc41ed631712")
+  (paper "A4")
+  (title_block
+    (title "Untitled")
+    (rev "1.0")
+    (company "Protoflow")
+  )
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
