@@ -3,3 +3,4 @@ videos/2026-05-15 15-52-01.mkv
 videos/2026-05-15 15-55-03.mkv
 hardware/prism_mainboard/~prism_mainboard.kicad_pro.lck
 *.lck
+*.kicad_prl
