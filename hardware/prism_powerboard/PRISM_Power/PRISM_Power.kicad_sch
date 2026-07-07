@@ -1,0 +1,106 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "80548bcf-507c-4ded-a0d2-b94774a2c706")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 107.95 19.685)
+		(size 81.28 79.375)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "b034b59f-81b0-4395-9c56-0258adc1e6aa")
+		(property "Sheetname" "STM32"
+			(at 107.95 18.9734 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "STM32.kicad_sch"
+			(at 107.95 99.6446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PRISM_Power"
+				(path "/80548bcf-507c-4ded-a0d2-b94774a2c706"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 20.955 19.685)
+		(size 82.55 80.01)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "c8aeb594-0349-4010-87c2-8307b4d58cb8")
+		(property "Sheetname" "LP87564W-Q1"
+			(at 20.955 18.9734 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LP87563W_Q1.kicad_sch"
+			(at 20.955 100.2796 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PRISM_Power"
+				(path "/80548bcf-507c-4ded-a0d2-b94774a2c706"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
