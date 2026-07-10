@@ -1,0 +1,9 @@
+Manufacturer=Same Sky
+PartNumber=UJ32-21-C-H-G-HMT-LT-P24-TR
+PartCategory=Connector
+PackageCategory=Other
+PinCount=28
+Version=5.3
+Released=2026-03-24 06:54:40
+Downloaded=2026-07-10 11:22:02
+3D=Y
