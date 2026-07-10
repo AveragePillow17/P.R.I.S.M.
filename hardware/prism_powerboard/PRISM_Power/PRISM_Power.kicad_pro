@@ -648,7 +648,7 @@
         "uuid": "80548bcf-507c-4ded-a0d2-b94774a2c706"
       }
     ],
-    "used_designators": "",
+    "used_designators": "L1,TH1,C1-9,R1-2,R4-11,#PWR1-2,#PWR4-12,#PWR14-16,#PWR20,#PWR29,#PWR32-40,#PWR47-51,P1,Q1-2,U1-4",
     "variants": []
   },
   "sheets": [
@@ -663,6 +663,18 @@
     [
       "b034b59f-81b0-4395-9c56-0258adc1e6aa",
       "STM32"
+    ],
+    [
+      "fd678644-5a4c-4cf5-a663-86572bee62d2",
+      "MAX17048G+T10"
+    ],
+    [
+      "bc6ed191-e146-462d-990e-a6d332793a8f",
+      "BQ25895RT"
+    ],
+    [
+      "e87287bd-1251-4d75-a949-70cab8f293ec",
+      "Connector"
     ]
   ],
   "text_variables": {},
