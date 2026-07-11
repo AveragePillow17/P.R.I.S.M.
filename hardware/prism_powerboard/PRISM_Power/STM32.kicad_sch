@@ -1524,14 +1524,15 @@
 				)
 			)
 		)
-		(property "Value" "+1V8"
-			(at 140.97 41.91 0)
+		(property "Value" "+1V8_LDO"
+			(at 143.51 45.7199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
