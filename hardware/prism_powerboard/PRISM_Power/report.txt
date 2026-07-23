@@ -1,0 +1,13 @@
+Info: X scale constrained.
+Info: Y scale constrained.
+Plotted to '/media/jmiramo/SamsungUSB/Projects/P.R.I.S.M/docs/PRISM_Power-F_Cu.gbr'.
+Plotted to '/media/jmiramo/SamsungUSB/Projects/P.R.I.S.M/docs/PRISM_Power-B_Cu.gbr'.
+Plotted to '/media/jmiramo/SamsungUSB/Projects/P.R.I.S.M/docs/PRISM_Power-F_Paste.gbr'.
+Plotted to '/media/jmiramo/SamsungUSB/Projects/P.R.I.S.M/docs/PRISM_Power-B_Paste.gbr'.
+Plotted to '/media/jmiramo/SamsungUSB/Projects/P.R.I.S.M/docs/PRISM_Power-F_Silkscreen.gbr'.
+Plotted to '/media/jmiramo/SamsungUSB/Projects/P.R.I.S.M/docs/PRISM_Power-B_Silkscreen.gbr'.
+Plotted to '/media/jmiramo/SamsungUSB/Projects/P.R.I.S.M/docs/PRISM_Power-F_Mask.gbr'.
+Plotted to '/media/jmiramo/SamsungUSB/Projects/P.R.I.S.M/docs/PRISM_Power-B_Mask.gbr'.
+Plotted to '/media/jmiramo/SamsungUSB/Projects/P.R.I.S.M/docs/PRISM_Power-Edge_Cuts.gbr'.
+Created Gerber job file '/media/jmiramo/SamsungUSB/Projects/P.R.I.S.M/docs/PRISM_Power-job.gbrjob'.
+Info: Done.
