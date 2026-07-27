@@ -12,6 +12,52 @@
 	)
 	(lib_symbols)
 	(sheet
+		(at 19.05 101.6)
+		(size 85.09 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "190e6b4c-6f4b-4222-b3c1-9ab9b9bde4e1")
+		(property "Sheetname" "Data"
+			(at 19.05 100.8884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "data.kicad_sch"
+			(at 19.05 105.9946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "prism_mainboard"
+				(path "/1d5f25f9-3e6f-41df-a8ec-41fc885bea9a"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 19.05 66.04)
 		(size 85.09 3.81)
 		(exclude_from_sim no)
@@ -27,7 +73,7 @@
 			(color 0 0 0 0)
 		)
 		(uuid "2fdb70e6-73b6-44a0-9464-64831d844f2c")
-		(property "Sheetname" "Power_System"
+		(property "Sheetname" "Power and Decoupling"
 			(at 19.05 65.3284 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -247,6 +293,52 @@
 			(project "prism_mainboard"
 				(path "/1d5f25f9-3e6f-41df-a8ec-41fc885bea9a"
 					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 19.05 110.49)
+		(size 85.09 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "b7ee0d75-d597-42aa-b567-b6bd9aedde27")
+		(property "Sheetname" "control"
+			(at 19.05 109.7784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "controls.kicad_sch"
+			(at 19.05 114.8846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "prism_mainboard"
+				(path "/1d5f25f9-3e6f-41df-a8ec-41fc885bea9a"
+					(page "12")
 				)
 			)
 		)
