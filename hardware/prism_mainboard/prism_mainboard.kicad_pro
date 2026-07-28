@@ -69,7 +69,13 @@
           "thermal_relief_spoke_width": 0.5
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -203,7 +209,9 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0
+      ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -230,7 +238,12 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -666,7 +679,7 @@
         "uuid": "1d5f25f9-3e6f-41df-a8ec-41fc885bea9a"
       }
     ],
-    "used_designators": "#PWR1-43,U8-11",
+    "used_designators": "U1,U3,#PWR1-106,J1,IC1-3",
     "variants": []
   },
   "sheets": [
@@ -695,8 +708,8 @@
       "UnitD"
     ],
     [
-      "2fdb70e6-73b6-44a0-9464-64831d844f2c",
-      "Power and Decoupling"
+      "bf311565-1593-41b3-a113-4c1dece76eae",
+      "UnitE"
     ],
     [
       "d5b8a5e9-3292-44fa-8d30-d1f917a322d3",
@@ -713,6 +726,14 @@
     [
       "190e6b4c-6f4b-4222-b3c1-9ab9b9bde4e1",
       "Data"
+    ],
+    [
+      "a14e0907-2a1f-4e1c-b5e9-c6cbd1fe0df9",
+      "Data 2"
+    ],
+    [
+      "2fdb70e6-73b6-44a0-9464-64831d844f2c",
+      "Power and Decoupling"
     ],
     [
       "b7ee0d75-d597-42aa-b567-b6bd9aedde27",

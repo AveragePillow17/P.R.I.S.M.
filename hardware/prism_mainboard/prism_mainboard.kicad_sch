@@ -98,7 +98,7 @@
 		(instances
 			(project "prism_mainboard"
 				(path "/1d5f25f9-3e6f-41df-a8ec-41fc885bea9a"
-					(page "7")
+					(page "13")
 				)
 			)
 		)
@@ -252,6 +252,52 @@
 		)
 	)
 	(sheet
+		(at 19.05 128.905)
+		(size 85.09 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "a14e0907-2a1f-4e1c-b5e9-c6cbd1fe0df9")
+		(property "Sheetname" "Data 2"
+			(at 19.05 128.1934 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "data2.kicad_sch"
+			(at 19.05 133.2996 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "prism_mainboard"
+				(path "/1d5f25f9-3e6f-41df-a8ec-41fc885bea9a"
+					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 19.05 93.98)
 		(size 85.09 3.81)
 		(exclude_from_sim no)
@@ -338,7 +384,53 @@
 		(instances
 			(project "prism_mainboard"
 				(path "/1d5f25f9-3e6f-41df-a8ec-41fc885bea9a"
-					(page "12")
+					(page "14")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 19.05 120.65)
+		(size 85.09 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "bf311565-1593-41b3-a113-4c1dece76eae")
+		(property "Sheetname" "UnitE"
+			(at 19.05 119.9384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "xc7z015unit3.kicad_sch"
+			(at 19.05 125.0446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "prism_mainboard"
+				(path "/1d5f25f9-3e6f-41df-a8ec-41fc885bea9a"
+					(page "7")
 				)
 			)
 		)
