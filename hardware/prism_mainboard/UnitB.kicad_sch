@@ -9447,6 +9447,54 @@
 			)
 		)
 	)
+	(global_label "VCCO_35"
+		(shape input)
+		(at 99.06 106.68 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "115e357c-2ee2-472c-9862-c25ccf0d369d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 87.7291 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "VCCO_34"
+		(shape input)
+		(at 99.06 76.2 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "16ceb048-0bec-4df4-a292-915d67848526")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 87.7291 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "VCCINT"
 		(shape input)
 		(at 99.06 35.56 180)
@@ -9471,6 +9519,30 @@
 			)
 		)
 	)
+	(global_label "VCCO_MIO1"
+		(shape input)
+		(at 200.66 58.42 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9f6ba85e-3d89-4802-a35f-7c2ac949c926")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 214.1681 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "VCCINT"
 		(shape input)
 		(at 99.06 127 180)
@@ -9484,6 +9556,30 @@
 		(uuid "a09728bb-3afe-40b9-9cb0-d182803d8522")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 89.5433 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "VCCO_35"
+		(shape input)
+		(at 99.06 91.44 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "af836a5f-54df-45ce-83a4-3a0a6880c2cd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 87.7291 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

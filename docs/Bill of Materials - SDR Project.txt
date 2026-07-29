@@ -1,2 +1,4 @@
 Bill of Materials - SDR Project
 
+RF Transceiver - LMS7002M 
+FPGA/MCU Combo - XC7Z010- 2CLG400I \ 3CLG400E  (Depends on Availability) 

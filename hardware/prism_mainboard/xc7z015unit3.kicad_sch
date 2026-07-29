@@ -9227,6 +9227,30 @@
 		)
 		(uuid "fd72c7d8-74f7-4762-b46f-b10889c12baf")
 	)
+	(global_label "VCCO_DDR"
+		(shape input)
+		(at 74.93 40.64 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8946be3c-4e21-4faf-b287-8af8c831a11e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 62.2081 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "VCCAUX"
 		(shape input)
 		(at 74.93 50.8 180)
@@ -9240,6 +9264,30 @@
 		(uuid "afc3d4f8-c322-4c69-adf0-ba719105b985")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 64.6876 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "VCCO_DDR"
+		(shape input)
+		(at 74.93 142.24 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e366abdc-d99e-4d65-ba5f-6c1af68b3ae8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 62.2081 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

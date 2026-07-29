@@ -5,6 +5,146 @@
 	(uuid "8931c2e8-a681-40fc-b69a-decfb32773a0")
 	(paper "A4")
 	(lib_symbols
+		(symbol "Device:R"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "R"
+				(at 2.032 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "R"
+				(at 0 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at -1.778 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Resistor"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "R res resistor"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "R_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "R_0_1"
+				(rectangle
+					(start -1.016 -2.54)
+					(end 1.016 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "R_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "XC7Z015-CLG485:XC7Z015-2CLG485I"
 			(pin_names
 				(offset 0.254)
@@ -9181,6 +9321,70 @@
 			(embedded_fonts no)
 		)
 	)
+	(wire
+		(pts
+			(xy 201.93 143.51) (xy 212.09 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "35085da8-2c5f-40c3-837c-8d014d50f4eb")
+	)
+	(wire
+		(pts
+			(xy 199.39 110.49) (xy 208.28 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60b4f6cf-30bb-4be2-add6-114d87b0e97b")
+	)
+	(wire
+		(pts
+			(xy 180.34 110.49) (xy 191.77 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a8ebebab-0861-4fba-8559-bb60690aaed8")
+	)
+	(wire
+		(pts
+			(xy 180.34 143.51) (xy 194.31 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bac4c94c-0148-4e6c-9963-0eda222b0ffa")
+	)
+	(global_label "VCCO_MIO1"
+		(shape input)
+		(at 83.82 148.59 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "253e8ea3-7ba5-4a99-849f-1fca2e6d9ac1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 70.3119 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "VCCPINT"
 		(shape input)
 		(at 180.34 57.15 0)
@@ -9202,6 +9406,174 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "VCCO_MIO0"
+		(shape input)
+		(at 212.09 143.51 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "34348377-a15e-4566-8a39-094628aef88d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 225.5981 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "VCCO_MIO1"
+		(shape input)
+		(at 180.34 128.27 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3e7de792-f2a4-49d3-92e7-cd2bd47bde50")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 193.8481 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "VCCO_DDR"
+		(shape input)
+		(at 180.34 102.87 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "43dc8a3d-19d8-459e-b549-acca5c2ef64a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 193.0619 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "VCCO_MIO0"
+		(shape input)
+		(at 83.82 123.19 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "533a4c5f-b95f-4dde-b01f-4be29917acb2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 70.3119 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "VCCO_MIO0"
+		(shape input)
+		(at 83.82 97.79 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "61e4ad66-0651-4dcb-85c1-db30a7c6bead")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 70.3119 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "VCCO_DDR"
+		(shape input)
+		(at 180.34 77.47 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7eb43895-6a28-4742-a8d7-7cb589beab53")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 193.0619 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "VCCO_MIO1"
+		(shape input)
+		(at 83.82 72.39 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d90be811-491b-4345-80d5-a35f834a5461")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 70.3119 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)
@@ -11074,6 +11446,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 195.58 110.49 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "63089d87-2b44-4841-87e5-f26700a28299")
+		(property "Reference" "R6"
+			(at 191.008 108.966 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "20k"
+			(at 199.39 108.966 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 195.58 112.268 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 195.58 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 195.58 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "f9059395-4e92-48f2-88ed-125f774b2ab5")
+		)
+		(pin "1"
+			(uuid "dbcdbd7c-1895-4fde-b3cb-9504688db061")
+		)
+		(instances
+			(project "prism_mainboard"
+				(path "/1d5f25f9-3e6f-41df-a8ec-41fc885bea9a/6a19c534-ad1d-410f-95b8-b8e3133549ef"
+					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 180.34 115.57 90)
 		(unit 1)
@@ -11627,6 +12078,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 198.12 143.51 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e886ad92-63e9-44b7-839f-119e1a72579b")
+		(property "Reference" "R5"
+			(at 193.548 141.986 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "20k"
+			(at 201.93 141.986 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 198.12 145.288 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 198.12 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 198.12 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "eb6012e3-a85d-45fe-aba4-11a2272827cc")
+		)
+		(pin "1"
+			(uuid "c4f9db78-9d7a-4c52-9978-200b8368739b")
+		)
+		(instances
+			(project "prism_mainboard"
+				(path "/1d5f25f9-3e6f-41df-a8ec-41fc885bea9a/6a19c534-ad1d-410f-95b8-b8e3133549ef"
+					(reference "R5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 180.34 39.37 90)
 		(unit 1)
@@ -11700,6 +12230,85 @@
 			(project "prism_mainboard"
 				(path "/1d5f25f9-3e6f-41df-a8ec-41fc885bea9a/6a19c534-ad1d-410f-95b8-b8e3133549ef"
 					(reference "#PWR038")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 208.28 110.49 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fc5aa782-5263-44f1-91c4-38e4ce16c907")
+		(property "Reference" "#PWR0129"
+			(at 214.63 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 212.09 110.4899 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 208.28 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 208.28 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 208.28 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "50d31004-79b9-4a03-8d5b-cbd29ed82e4e")
+		)
+		(instances
+			(project "prism_mainboard"
+				(path "/1d5f25f9-3e6f-41df-a8ec-41fc885bea9a/6a19c534-ad1d-410f-95b8-b8e3133549ef"
+					(reference "#PWR0129")
 					(unit 1)
 				)
 			)
