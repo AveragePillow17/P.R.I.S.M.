@@ -5085,6 +5085,150 @@
 			(embedded_fonts no)
 		)
 	)
+	(global_label "VDD_1V8_DIG"
+		(shape input)
+		(at 97.79 123.19 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "474ca523-bcc2-4fae-8eea-52268f7b2876")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 82.5886 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "NC"
+		(shape input)
+		(at 97.79 49.53 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "50be6a5d-c8c5-4c39-8de5-776bc1058a19")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 92.2043 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "VDD_1V8"
+		(shape input)
+		(at 194.31 130.81 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "75c344e6-6ce5-4116-a52d-165f21e3c86d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 205.399 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "VDD_1V8"
+		(shape input)
+		(at 194.31 77.47 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8779d9be-a11a-449e-907c-eef1aa6d3874")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 205.399 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "VDD_1V8"
+		(shape input)
+		(at 194.31 87.63 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "adadee60-4dea-4358-a92f-ccaf41abd5da")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 205.399 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "VDD_1V8_DIG"
+		(shape input)
+		(at 97.79 41.91 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e0267865-6c7e-4ec9-a818-e710352cb916")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 82.5886 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(symbol
 		(lib_id "2026-05-17_20-58-30:LMS7002M")
 		(at 97.79 36.83 0)

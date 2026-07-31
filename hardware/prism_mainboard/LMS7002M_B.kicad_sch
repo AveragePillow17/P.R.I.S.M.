@@ -5085,6 +5085,126 @@
 			(embedded_fonts no)
 		)
 	)
+	(global_label "VDD_1V8"
+		(shape input)
+		(at 104.14 142.24 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3945e515-267f-46ac-b8ab-b19c9f925ee9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 93.051 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "VDD_1V8_DIG"
+		(shape input)
+		(at 185.42 81.28 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3b115ce7-f2d3-4ff3-956d-12475646ef81")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 200.6214 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "VDD_1V8"
+		(shape input)
+		(at 104.14 132.08 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4f06036c-ea0e-4c46-b4fb-bb60fea77bd0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 93.051 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "VDD_1V8"
+		(shape input)
+		(at 185.42 134.62 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "738c4a89-c9af-430f-856e-b86145e38884")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 196.509 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "VDD_1V8"
+		(shape input)
+		(at 185.42 139.7 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c235cf9a-8fe2-4f62-aa04-403b6ed823a5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 196.509 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(symbol
 		(lib_id "power:GND")
 		(at 104.14 88.9 270)

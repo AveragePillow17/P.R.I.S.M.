@@ -1128,6 +1128,30 @@
 			(embedded_fonts no)
 		)
 	)
+	(global_label "VBUS"
+		(shape input)
+		(at 102.87 74.93 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3d59dfa7-cf85-4754-a05d-55aa69329591")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 110.7538 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(symbol
 		(lib_id "SamacSys:USB3320C-EZK")
 		(at 67.31 69.85 0)
