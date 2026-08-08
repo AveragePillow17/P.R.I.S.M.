@@ -1,0 +1,3302 @@
+Importer Log Report
+Document: E:\Projects\SDR\PRISM\hardware\prism_mainboard\prism_mainboard.kicad_pcb
+    Section : Analyze Document from - E:\Projects\SDR\PRISM\hardware\prism_mainboard\prism_mainboard.kicad_pcb
+        Warning: Unknown child 'generator_version' of 'kicad_pcb'.
+        Warning: Unknown child legacy_teardrops of general.
+        Warning: Unknown child allow_soldermask_bridges_in_footprints of setup.
+        Warning: Unknown child tenting of setup.
+        Warning: Unknown child covering of setup.
+        Warning: Unknown child plugging of setup.
+        Warning: Unknown child capping of setup.
+        Warning: Unknown child filling of setup.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_circle.
+        Warning: Unknown child uuid of fp_circle.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child uuid of fp_poly.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child uuid of fp_poly.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child unlocked of property.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child uuid of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child uuid of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child uuid of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child uuid of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child uuid of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child uuid of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child uuid of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child uuid of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child uuid of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child uuid of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child uuid of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child uuid of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child uuid of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child uuid of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child uuid of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child uuid of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child uuid of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child uuid of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child uuid of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child uuid of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child uuid of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child uuid of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child uuid of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child uuid of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child uuid of fp_poly.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child uuid of fp_poly.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child unlocked of fp_text.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child unlocked of fp_text.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child unlocked of fp_text.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child unlocked of fp_text.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child unlocked of fp_text.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child unlocked of fp_text.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child unlocked of fp_text.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child unlocked of fp_text.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child unlocked of fp_text.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child unlocked of fp_text.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child unlocked of fp_text.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child unlocked of fp_text.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child unlocked of fp_text.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_circle.
+        Warning: Unknown child uuid of fp_circle.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child unlocked of property.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child uuid of fp_poly.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child unlocked of fp_text.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child unlocked of fp_text.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child unlocked of fp_text.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child unlocked of fp_text.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child unlocked of fp_text.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child unlocked of fp_text.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child unlocked of fp_text.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child unlocked of fp_text.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child unlocked of fp_text.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child unlocked of fp_text.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child unlocked of fp_text.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child unlocked of fp_text.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child unlocked of fp_text.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child uuid of fp_poly.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_arc.
+        Warning: Unknown child uuid of fp_arc.
+        Warning: Unknown child stroke of fp_arc.
+        Warning: Unknown child uuid of fp_arc.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child remove_unused_layers of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child remove_unused_layers of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child remove_unused_layers of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child remove_unused_layers of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child remove_unused_layers of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child remove_unused_layers of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child remove_unused_layers of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_circle.
+        Warning: Unknown child uuid of fp_circle.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_poly.
+        Warning: Unknown child uuid of fp_poly.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_arc.
+        Warning: Unknown child uuid of fp_arc.
+        Warning: Unknown child stroke of fp_arc.
+        Warning: Unknown child uuid of fp_arc.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child uuid of footprint.
+        Warning: Unknown child uuid of property.
+        Warning: Unknown child sheetname of footprint.
+        Warning: Unknown child sheetfile of footprint.
+        Warning: Unknown child units of footprint.
+        Warning: Unknown child duplicate_pad_numbers_are_jumpers of footprint.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child uuid of fp_line.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child stroke of fp_rect.
+        Warning: Unknown child uuid of fp_rect.
+        Warning: Unknown child uuid of fp_text.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child uuid of pad.
+        Warning: Unknown child embedded_fonts of footprint.
+        Warning: Unknown child stroke of gr_rect.
+        Warning: Unknown child uuid of gr_rect.
+        Warning: Unknown child 'embedded_fonts' of 'kicad_pcb'.
+    EndSection
+    Section : Import Document - E:\Projects\SDR\PRISM\hardware\prism_mainboard\Imported prism_mainboard\prism_mainboard.PcbDoc
+        Section : Component C34 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C23 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component IC2 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C48 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C53 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C14 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C46 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C42 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C60 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C17 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C12 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C47 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component U4 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C39 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C25 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C33 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C26 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component FB1 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C22 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C18 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C43 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component R6 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C29 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component U7 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C49 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component U2 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C44 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C54 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C63 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C28 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C45 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C55 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C59 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C19 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component IC1 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component U1 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C58 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C21 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component U5 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C5 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C52 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C32 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C6 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C10 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C15 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C36 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component U3 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component IC3 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C27 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C51 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C13 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C50 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C11 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C16 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C62 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C61 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C41 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component R5 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component U6 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C7 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C2 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C3 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C4 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C35 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C40 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C31 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C8 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C9 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C56 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component J1 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C37 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C24 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C30 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C20 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C38 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+        Section : Component C57 importing.
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+            Error: Import is not implemented for: KiCadLib.PCB.PCBLine
+        EndSection
+    EndSection
