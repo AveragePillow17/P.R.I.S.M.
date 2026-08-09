@@ -493,13 +493,13 @@
 	(footprint "SamacSys_Parts:BGA96C80P9X16_750X1300X100"
 		(layer "F.Cu")
 		(uuid "04ae349e-c249-463f-bff9-920fca603248")
-		(at 154.65 66.45)
+		(at 137.6 125)
 		(descr "96 ball BGA-1")
 		(tags "Integrated Circuit")
 		(property "Reference" "IC2"
 			(at 0 0 0)
 			(layer "F.SilkS")
-			(uuid "2c211225-53a4-4181-a188-eb950a2b734b")
+			(uuid "7d452a4e-26af-4b51-8fed-0aa08fffb5ee")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -511,7 +511,7 @@
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "0900d8d4-bea9-4039-bf5c-694c31e355fe")
+			(uuid "87727ff5-5bbd-46ef-ad24-85c900d12cbb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -523,7 +523,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3278b7e4-fee4-42a4-810a-3fb9c7e40ab2")
+			(uuid "8de3864b-6fe4-4f86-95f7-553be5eb75ca")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -534,7 +534,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "607c3c8f-a0f1-47b2-b213-a2583077f2b6")
+			(uuid "58446ffc-197d-418e-82b2-49f1b9f76037")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3092,7 +3092,7 @@
 		(descr "module CMS SOT223 4 pins")
 		(tags "CMS SOT")
 		(property "Reference" "U4"
-			(at 0 -4.5 0)
+			(at -5.700001 54.200002 0)
 			(layer "F.SilkS")
 			(uuid "fa08a5ae-7f6c-4e76-853c-05e9dd610ebc")
 			(effects
@@ -5471,7 +5471,7 @@
 	(footprint "LMS7002M:AQFN261_11P5X11P5_LIM"
 		(layer "F.Cu")
 		(uuid "5f5dc17d-4365-4cc4-9d0b-619aff20973c")
-		(at 110.336499 140.478501)
+		(at 168.5 68.5)
 		(tags "LMS7002M ")
 		(property "Reference" "U2"
 			(at 0 0 0)
@@ -10178,13 +10178,13 @@
 	(footprint "SamacSys_Parts:BGA96C80P9X16_750X1300X100"
 		(layer "F.Cu")
 		(uuid "76e3ff91-1636-4260-a412-b7e76035183a")
-		(at 143.55 66.35)
+		(at 126.5 124.9)
 		(descr "96 ball BGA-1")
 		(tags "Integrated Circuit")
 		(property "Reference" "IC1"
 			(at 0 0 0)
 			(layer "F.SilkS")
-			(uuid "f7b59f28-f119-4aef-8708-8368f8caab51")
+			(uuid "6719e4aa-56e9-433d-98c6-fd87437af553")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10196,7 +10196,7 @@
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "19594e5f-48b5-4305-b7f1-25e47ff00957")
+			(uuid "92ebea1a-12b9-4f1a-afad-93c5e4ade416")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10208,7 +10208,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ee5ffc15-9cd9-4a99-a45d-dc7419fe11a3")
+			(uuid "c6c3c793-0751-4661-8f37-82744e646485")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10219,7 +10219,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5c05df10-8a1f-43ca-a3d9-6bb4a0e76882")
+			(uuid "e5479f81-44b6-43a1-a00e-a63272729229")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11351,13 +11351,13 @@
 	(footprint "footprints:CLG485_XIL"
 		(layer "F.Cu")
 		(uuid "77021cb9-de3b-4989-af3e-bf614a28fa34")
-		(at 112.700001 70.999999)
+		(at 107 129.700001)
 		(tags "XC7Z015-2CLG485I ")
 		(property "Reference" "U1"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "630bc609-335e-4447-83bb-8f612533dda4")
+			(uuid "1f5e831d-9953-452b-b65b-58afb2ba309d")
 			(effects
 				(font
 					(size 1 1)
@@ -11369,7 +11369,7 @@
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "6b3744a1-9929-44c3-bd91-d80eb16ac245")
+			(uuid "bbb9b5e8-bc06-4312-b2f2-267b97f0697b")
 			(effects
 				(font
 					(size 1 1)
@@ -11381,7 +11381,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1071343d-d53f-4585-85ac-481dbf7c2987")
+			(uuid "f66357ca-9665-43ca-915b-741988b90682")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11392,7 +11392,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2e595251-2c0e-45ae-be7a-57cd75cf4b65")
+			(uuid "dab6b940-1fef-44ed-9b19-e32ce6fdf890")
 			(effects
 				(font
 					(size 1.27 1.27)

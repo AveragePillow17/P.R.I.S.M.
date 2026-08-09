@@ -9495,6 +9495,78 @@
 			)
 		)
 	)
+	(global_label "RXEN"
+		(shape input)
+		(at 99.06 55.88 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3488da41-d72c-4965-a64f-93a72a765b03")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 91.1158 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "SDO"
+		(shape input)
+		(at 99.06 50.8 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "68c3ce9d-f52f-4605-b946-5c92fa3f14dc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 92.2648 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "TXEN"
+		(shape input)
+		(at 99.06 38.1 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8a01dcf3-99ff-46f0-8e1e-cef7f822b96e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 91.4182 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "VCCINT"
 		(shape input)
 		(at 99.06 35.56 180)
@@ -9580,6 +9652,30 @@
 		(uuid "af836a5f-54df-45ce-83a4-3a0a6880c2cd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 87.7291 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "SDIO"
+		(shape input)
+		(at 99.06 124.46 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f078e2a3-3213-41ed-b96b-49a07b019cb8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 91.66 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
