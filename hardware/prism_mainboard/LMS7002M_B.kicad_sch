@@ -5181,6 +5181,30 @@
 			)
 		)
 	)
+	(global_label "LM_RST"
+		(shape input)
+		(at 185.42 127 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0b838cd3-5106-402a-85d9-963dd1e2d559")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 195.2994 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "DIQ2_D5"
 		(shape input)
 		(at 185.42 68.58 0)

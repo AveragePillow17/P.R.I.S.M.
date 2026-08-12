@@ -5109,6 +5109,30 @@
 			)
 		)
 	)
+	(global_label "EN_IQSEL1"
+		(shape input)
+		(at 97.79 69.85 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0a3c91c5-375f-4d0b-acef-d5c849a1f683")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 84.8263 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "DIQ1_D11"
 		(shape input)
 		(at 97.79 82.55 180)
@@ -5493,7 +5517,7 @@
 			)
 		)
 	)
-	(global_label "DIQ_2"
+	(global_label "DIQ1_D2"
 		(shape input)
 		(at 97.79 113.03 180)
 		(fields_autoplaced yes)
@@ -5505,7 +5529,7 @@
 		)
 		(uuid "931867ca-1f2c-4a90-8b4e-61a88b311316")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 89.4224 113.03 0)
+			(at 86.9429 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

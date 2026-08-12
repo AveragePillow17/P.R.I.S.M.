@@ -9205,6 +9205,30 @@
 			)
 		)
 	)
+	(global_label "USB_D3"
+		(shape input)
+		(at 203.2 138.43 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "104f4ff3-64a9-483c-86fb-44e715b7c4d4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 213.4423 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "DIQ1_D1"
 		(shape input)
 		(at 203.2 102.87 0)
@@ -9325,6 +9349,30 @@
 			)
 		)
 	)
+	(global_label "SD_CLK"
+		(shape input)
+		(at 81.28 140.97 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "21cc273c-1fed-4ba2-981a-eedab6a04f9d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 71.2796 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "DIQ2_D5"
 		(shape input)
 		(at 203.2 29.21 0)
@@ -9397,7 +9445,7 @@
 			)
 		)
 	)
-	(global_label "DIQ1_10"
+	(global_label "DIQ1_D10"
 		(shape input)
 		(at 81.28 130.81 180)
 		(fields_autoplaced yes)
@@ -9409,7 +9457,7 @@
 		)
 		(uuid "4aa4bcf9-95bb-474a-a20b-1122faf82464")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 70.4934 130.81 0)
+			(at 69.2234 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9634,6 +9682,30 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "USB_D5"
+		(shape input)
+		(at 81.28 72.39 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6eb96e92-817b-4006-b112-a5bf8ca45897")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 71.0377 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)
