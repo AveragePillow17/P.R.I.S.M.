@@ -63,147 +63,199 @@
   )
   (placement
     (component Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
-      (place C34 149920 -100240 front 0 (PN 4.7uF))
-      (place C53 159540 -88200 front 0 (PN 1uF))
-      (place C25 149920 -88200 front 0 (PN 4.7uF))
-      (place C33 149920 -97230 front 0 (PN 100uF))
-      (place R6 169110 -101690 front 0 (PN 20k))
-      (place C44 154730 -94220 front 0 (PN 4.7uF))
-      (place C63 159540 -94220 front 0 (PN 47uF))
-      (place C45 154730 -97230 front 0 (PN 4.7uF))
-      (place C19 145110 -100240 front 0 (PN 47uF))
-      (place C52 159540 -85190 front 0 (PN 1uF))
-      (place C15 145110 -94220 front 0 (PN 47uF))
-      (place C36 154730 -82180 front 0 (PN 47uF))
-      (place C51 159540 -82180 front 0 (PN 1uF))
-      (place C50 154730 -100240 front 0 (PN 1uF))
-      (place C16 145110 -97230 front 0 (PN 4.7uF))
-      (place C62 159540 -91210 front 0 (PN 47uF))
-      (place R5 169110 -98680 front 0 (PN 20k))
-      (place C2 145110 -82180 front 0 (PN 4.7uF))
-      (place C3 145110 -85190 front 0 (PN 4.7uF))
-      (place C40 154730 -91210 front 0 (PN 4.7uF))
-      (place C31 149920 -94220 front 0 (PN 4.7uF))
-      (place C8 145110 -88200 front 0 (PN 100uF))
-      (place C9 145110 -91210 front 0 (PN 4.7uF))
-      (place C37 154730 -85190 front 0 (PN 47uF))
-      (place C24 149920 -85190 front 0 (PN 100uF))
-      (place C30 149920 -91210 front 0 (PN 100uF))
-      (place C20 149920 -82180 front 0 (PN 4.7uF))
-      (place C38 154730 -88200 front 0 (PN 4.7uF))
+      (place C38 106500 -107900 front 90 (PN 4.7uF))
+      (place C31 108700 -107912.5 front 90 (PN 4.7uF))
+      (place C45 99800 -107912.5 front 90 (PN 4.7uF))
+      (place C20 97650 -107887.5 front 90 (PN 4.7uF))
+    )
+    (component Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder::1
+      (place C52 120112.5 -99700 front 0 (PN 1uF))
+      (place C63 166800 -109850 front 0 (PN 47uF))
+      (place C62 166800 -107600 front 0 (PN 47uF))
+      (place C25 166812.5 -114750 front 0 (PN 4.7uF))
+      (place C50 134962.5 -126550 front 0 (PN 1uF))
+      (place C24 166812.5 -112150 front 0 (PN 100uF))
+    )
+    (component Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder::2
+      (place C53 135100 -86050 front -90 (PN 1uF))
+      (place C3 112400 -118187.5 front -90 (PN 4.7uF))
+      (place C8 90800 -118287.5 front -90 (PN 100uF))
+      (place C9 110050 -118200 front -90 (PN 4.7uF))
+      (place C2 114800 -118187.5 front -90 (PN 4.7uF))
+    )
+    (component Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder::3
+      (place C34 122537.5 -126650 front 180 (PN 4.7uF))
+      (place C33 122562.5 -129000 front 180 (PN 100uF))
+    )
+    (component Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder::4
+      (place C19 110850 -107937.5 front 90 (PN 47uF))
+      (place C44 102000 -107900 front 90 (PN 4.7uF))
+      (place C15 115250 -107937.5 front 90 (PN 47uF))
+      (place C16 113100 -107937.5 front 90 (PN 4.7uF))
+      (place C40 104200 -107900 front 90 (PN 4.7uF))
+      (place C30 88600 -107812.5 front 90 (PN 100uF))
+      (place C37 92900 -107812.5 front 90 (PN 47uF))
     )
     (component Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder
-      (place C23 166790 -87570 front 0 (PN 470nF))
-      (place C48 173250 -81660 front 0 (PN 470nF))
-      (place C14 163560 -93480 front 0 (PN 470nF))
-      (place C46 170020 -93480 front 0 (PN 470nF))
-      (place C42 170020 -89540 front 0 (PN 470nF))
-      (place C17 163560 -95450 front 0 (PN 470nF))
-      (place C12 163560 -89540 front 0 (PN 470nF))
-      (place C47 170020 -95450 front 0 (PN 470nF))
-      (place C39 170020 -85600 front 0 (PN 470nF))
-      (place C26 166790 -89540 front 0 (PN 470nF))
-      (place C22 166790 -85600 front 0 (PN 470nF))
-      (place C18 166790 -81660 front 0 (PN 470nF))
-      (place C43 170020 -91510 front 0 (PN 470nF))
-      (place C29 166790 -95450 front 0 (PN 470nF))
-      (place C49 173250 -83630 front 0 (PN 470nF))
-      (place C28 166790 -93480 front 0 (PN 470nF))
-      (place C21 166790 -83630 front 0 (PN 470nF))
-      (place C5 163560 -83630 front 0 (PN 470nF))
-      (place C32 170020 -81660 front 0 (PN 470nF))
-      (place C6 163560 -85600 front 0 (PN 470nF))
-      (place C27 166790 -91510 front 0 (PN 470nF))
-      (place C13 163560 -91510 front 0 (PN 470nF))
-      (place C61 173250 -87570 front 0 (PN 4.7uF))
-      (place C41 170020 -87570 front 0 (PN 470nF))
-      (place C7 163560 -87570 front 0 (PN 470nF))
-      (place C4 163560 -81660 front 0 (PN 470nF))
-      (place C35 170020 -83630 front 0 (PN 470nF))
-      (place C57 173250 -85600 front 0 (PN 10nF))
+      (place C23 142730 -93382.5 front -90 (PN 470nF))
+      (place C48 100850 -101117.5 front -90 (PN 470nF))
+      (place C14 99200 -118982.5 front -90 (PN 470nF))
+      (place C46 89030 -97887.5 front -90 (PN 470nF))
+      (place C42 92970 -97887.5 front -90 (PN 470nF))
+      (place C17 93000 -115582.5 front -90 (PN 470nF))
+      (place C12 101900 -118982.5 front -90 (PN 470nF))
+      (place C47 87060 -97887.5 front -90 (PN 470nF))
+      (place C39 96910 -97887.5 front -90 (PN 470nF))
+      (place C26 174750 -118832.5 front -90 (PN 470nF))
+      (place C22 146900 -93532.5 front -90 (PN 470nF))
+      (place C18 100850 -94657.5 front -90 (PN 470nF))
+      (place C43 91000 -97887.5 front -90 (PN 470nF))
+      (place C29 163550 -118882.5 front -90 (PN 470nF))
+      (place C49 98880 -101117.5 front -90 (PN 470nF))
+      (place C28 167550 -118832.5 front -90 (PN 470nF))
+      (place C21 98880 -94657.5 front -90 (PN 470nF))
+      (place C5 105700 -119032.5 front -90 (PN 470nF))
+      (place C32 100850 -97887.5 front -90 (PN 470nF))
+      (place C6 104500 -119017.5 front -90 (PN 470nF))
+      (place C27 171200 -118682.5 front -90 (PN 470nF))
+      (place C13 100600 -118982.5 front -90 (PN 470nF))
+      (place C61 166830 -123382.5 front -90 (PN 4.7uF))
+      (place C41 94940 -97887.5 front -90 (PN 470nF))
+      (place C7 103200 -119000 front -90 (PN 470nF))
+      (place C4 106950 -119032.5 front -90 (PN 470nF))
+      (place C35 133000 -101417.5 front -90 (PN 470nF))
+      (place C57 174750 -123482.5 front -90 (PN 10nF))
     )
     (component SamacSys_Parts:BGA96C80P9X16_750X1300X100
-      (place IC2 133400 -102550 front 0 (PN KTDM4G3C618BGIEAT))
-      (place IC1 133250 -86250 front 0 (PN KTDM4G3C618BGIEAT))
+      (place IC2 156400 -121500 front 180 (PN KTDM4G3C618BGIEAT))
+      (place IC1 156450 -106150 front 180 (PN KTDM4G3C618BGIEAT))
     )
     (component Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
-      (place R2 141745 -66550 front 0 (PN R))
-      (place R3 141745 -69500 front 0 (PN R))
-      (place R1 141745 -63600 front 0 (PN R))
-      (place R4 151400 -71900 front 0 (PN R))
+      (place R2 127150 -72100 front 0 (PN R))
+      (place R3 142300 -111400 front 0 (PN R))
+      (place R1 166850 -105400 front 0 (PN R))
+      (place R4 144350 -106950 front 0 (PN R))
     )
     (component Capacitor_SMD:C_0402_1005Metric
-      (place C60 163380 -107270 front 0 (PN 0.1uF))
-      (place C54 163380 -97420 front 0 (PN 0.1uF))
-      (place C55 163380 -99390 front 0 (PN 0.1uF))
-      (place C59 163380 -105300 front 0 (PN 0.1uF))
-      (place C58 163380 -103330 front 0 (PN 0.1uF))
-      (place C56 163380 -101360 front 0 (PN 10nF))
+      (place C60 140550 -120830 front -90 (PN 0.1uF))
+      (place C54 146950 -120920 front -90 (PN 0.1uF))
+      (place C55 145650 -120870 front -90 (PN 0.1uF))
+      (place C59 141850 -120830 front -90 (PN 0.1uF))
+      (place C58 143200 -120870 front -90 (PN 0.1uF))
+      (place C56 144450 -120870 front -90 (PN 10nF))
     )
     (component "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
-      (place U4 96475 -68300 front 90 (PN "AMS1117-1.8"))
-      (place U7 121450 -68300 front 90 (PN "AMS1117-1.8"))
-      (place U5 104800 -68300 front 90 (PN "AMS1117-1.8"))
-      (place U6 113125 -68300 front 90 (PN "AMS1117-1.8"))
+      (place U4 102050 -87600 front 0 (PN "AMS1117-1.8"))
     )
     (component SamacSys_Parts:BLM18EG101TH1D
-      (place FB1 154192.5 -104230 front 0 (PN BLM18SG121TN1D))
+      (place FB1 117550 -109675 front -90 (PN BLM18SG121TN1D))
+    )
+    (component Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder::5
+      (place R6 139550 -101062.5 front -90 (PN 20k))
+      (place R5 83830 -96977.5 front -90 (PN 20k))
+    )
+    (component "Package_TO_SOT_SMD:SOT-223-3_TabPin2::1"
+      (place U7 141950 -84650 front 180 (PN "AMS1117-1.8"))
     )
     (component LMS7002M:AQFN261_11P5X11P5_LIM
-      (place U2 168500 -68500 front 0 (PN LMS7002M))
+      (place U2 126800 -83250 front 180 (PN LMS7002M))
     )
     (component footprints:CLG485_XIL
-      (place U1 112600 -96400 front 0 (PN "XC7Z015-2CLG485I"))
+      (place U1 128600 -114150 front 0 (PN "XC7Z015-2CLG485I"))
     )
     (component "LIB_UJ32-21-C-H-G-HMT-LT-P24-TR:UJ3221CHGHMTLTP24TR"
-      (place J2 87210 -150745 front 0 (PN "UJ32-21-C-H-G-HMT-LT-P24-TR"))
+      (place J2 131600 -150735 front 0 (PN "UJ32-21-C-H-G-HMT-LT-P24-TR"))
+    )
+    (component "Package_TO_SOT_SMD:SOT-223-3_TabPin2::2"
+      (place U5 104800 -68300 front 90 (PN "AMS1117-1.8"))
     )
     (component SamacSys_Parts:CAPC1608X90N
-      (place C10 153942.5 -106650 front 0 (PN GRM188R60G106ME47D))
+      (place C10 117600 -112750 front -90 (PN GRM188R60G106ME47D))
+    )
+    (component Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder::6
+      (place C36 128687.5 -101150 front 180 (PN 47uF))
     )
     (component SamacSys_Parts:PEC164120FS0012
-      (place U3 162050 -135450 front 0 (PN "PEC16-4220F-S0024"))
+      (place U3 162000 -150200 front 0 (PN "PEC16-4220F-S0024"))
     )
     (component "SamacSys_Parts:QFN50P500X500X100-33N-D"
-      (place IC3 113250 -79300 front 0 (PN "USB3320C-EZK"))
+      (place IC3 131450 -133500 front 0 (PN "USB3320C-EZK"))
+    )
+    (component Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder::7
+      (place C51 122262.5 -91650 front 0 (PN 1uF))
     )
     (component SamacSys_Parts:CAPC1005X70N
-      (place C11 157127.5 -106490 front 0 (PN GRM155R60J474KE19D))
+      (place C11 115850 -112440 front -90 (PN GRM155R60J474KE19D))
+    )
+    (component "Package_TO_SOT_SMD:SOT-223-3_TabPin2::3"
+      (place U6 113050 -96450 front -90 (PN "AMS1117-1.8"))
     )
     (component SamacSys_Parts:5033981892
-      (place J1 137930 -141500 front 0 (PN "503398-1892"))
+      (place J1 94900 -155815 front 180 (PN "503398-1892"))
     )
     (component SamacSys_Parts:T494D
-      (place C1 149750 -65800 front 0 (PN T494D337K010AT))
+      (place C1 85150 -119900 front -90 (PN T494D337K010AT))
     )
   )
   (library
     (image Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
-      (outline (polygon signal 0  1875 -975  -1875 -975  -1875 975  1875 975))
+      (outline (polygon signal 0  -1875 -975  -1875 975  1875 975  1875 -975))
       (outline (path signal 120  -261.252 735  261.252 735))
       (outline (path signal 120  -261.252 -735  261.252 -735))
-      (outline (path signal 100  -1000 625  1000 625  1000 -625  -1000 -625  -1000 625))
+      (outline (path signal 100  -1000 625  -1000 -625  1000 -625  1000 625  -1000 625))
       (pin RoundRect[T]Pad_1175.000000x1450.000000_250.951000_um_0.000000_0 1 -1037.5 0)
       (pin RoundRect[T]Pad_1175.000000x1450.000000_250.951000_um_0.000000_0 2 1037.5 0)
     )
+    (image Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder::1
+      (outline (polygon signal 0  1875 -975  -1875 -975  -1875 975  1875 975))
+      (outline (path signal 100  -1000 625  1000 625  1000 -625  -1000 -625  -1000 625))
+      (outline (path signal 120  -261.252 -735  261.252 -735))
+      (outline (path signal 120  -261.252 735  261.252 735))
+      (pin RoundRect[T]Pad_1175.000000x1450.000000_250.951000_um_0.000000_0 2 1037.5 0)
+      (pin RoundRect[T]Pad_1175.000000x1450.000000_250.951000_um_0.000000_0 1 -1037.5 0)
+    )
+    (image Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder::2
+      (outline (polygon signal 0  1875 975  1875 -975  -1875 -975  -1875 975))
+      (outline (path signal 100  -1000 625  -1000 -625  1000 -625  1000 625  -1000 625))
+      (outline (path signal 120  -261.252 -735  261.252 -735))
+      (outline (path signal 120  -261.252 735  261.252 735))
+      (pin RoundRect[T]Pad_1175.000000x1450.000000_250.951000_um_0.000000_0 2 1037.5 0)
+      (pin RoundRect[T]Pad_1175.000000x1450.000000_250.951000_um_0.000000_0 1 -1037.5 0)
+    )
+    (image Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder::3
+      (outline (polygon signal 0  -1875 975  1875 975  1875 -975  -1875 -975))
+      (outline (path signal 100  -1000 625  1000 625  1000 -625  -1000 -625  -1000 625))
+      (outline (path signal 120  -261.252 -735  261.252 -735))
+      (outline (path signal 120  -261.252 735  261.252 735))
+      (pin RoundRect[T]Pad_1175.000000x1450.000000_250.951000_um_0.000000_0 2 1037.5 0)
+      (pin RoundRect[T]Pad_1175.000000x1450.000000_250.951000_um_0.000000_0 1 -1037.5 0)
+    )
+    (image Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder::4
+      (outline (polygon signal 0  -1875 -975  -1875 975  1875 975  1875 -975))
+      (outline (path signal 100  -1000 625  -1000 -625  1000 -625  1000 625  -1000 625))
+      (outline (path signal 120  -261.252 -735  261.252 -735))
+      (outline (path signal 120  -261.252 735  261.252 735))
+      (pin RoundRect[T]Pad_1175.000000x1450.000000_250.951000_um_0.000000_0 2 1037.5 0)
+      (pin RoundRect[T]Pad_1175.000000x1450.000000_250.951000_um_0.000000_0 1 -1037.5 0)
+    )
     (image Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder
-      (outline (polygon signal 0  1085 -455  -1085 -455  -1085 455  1085 455))
+      (outline (polygon signal 0  1085 455  1085 -455  -1085 -455  -1085 455))
       (outline (path signal 120  -115.835 360  115.835 360))
       (outline (path signal 120  -115.835 -360  115.835 -360))
-      (outline (path signal 100  -500 250  500 250  500 -250  -500 -250  -500 250))
+      (outline (path signal 100  -500 250  -500 -250  500 -250  500 250  -500 250))
       (pin RoundRect[T]Pad_735.000000x620.000000_155.590000_um_0.000000_0 1 -567.5 0)
       (pin RoundRect[T]Pad_735.000000x620.000000_155.590000_um_0.000000_0 2 567.5 0)
     )
     (image SamacSys_Parts:BGA96C80P9X16_750X1300X100
-      (outline (polygon signal 0  4795 -7545  -4795 -7545  -4795 7545  4795 7545))
+      (outline (polygon signal 0  -4795 7545  4795 7545  4795 -7545  -4795 -7545))
       (outline (path signal 200  -3755 6000  -3200 6555))
       (outline (path signal 200  -3755 -6555  -3755 6000))
       (outline (path signal 200  -3200 6555  3755 6555))
       (outline (path signal 200  3755 6555  3755 -6555))
       (outline (path signal 200  3755 -6555  -3755 -6555))
-      (outline (path signal 200  -3655 6555  -3670.88 6500.94  -3713.46 6464.04  -3769.23 6456.02
-            -3820.49 6479.43  -3850.95 6526.83  -3850.95 6583.17  -3820.49 6630.57
-            -3769.23 6653.98  -3713.46 6645.96  -3670.88 6609.06  -3655 6555))
+      (outline (path signal 200  -3855 6555  -3839.12 6609.06  -3796.54 6645.96  -3740.77 6653.98
+            -3689.51 6630.57  -3659.05 6583.17  -3659.05 6526.83  -3689.51 6479.43
+            -3740.77 6456.02  -3796.54 6464.04  -3839.12 6500.94  -3855 6555))
       (outline (path signal 100  -3750 6500  3750 6500))
       (outline (path signal 100  -3750 3225  -475 6500))
       (outline (path signal 100  -3750 -6500  -3750 6500))
@@ -315,15 +367,15 @@
       (pin RoundRect[T]Pad_1200.000000x1400.000000_250.951000_um_0.000000_0 2 1000 0)
     )
     (image Capacitor_SMD:C_0402_1005Metric
-      (outline (polygon signal 0  905 -455  -905 -455  -905 455  905 455))
+      (outline (polygon signal 0  905 455  905 -455  -905 -455  -905 455))
       (outline (path signal 120  -107.836 360  107.836 360))
       (outline (path signal 120  -107.836 -360  107.836 -360))
-      (outline (path signal 100  -500 250  500 250  500 -250  -500 -250  -500 250))
+      (outline (path signal 100  -500 250  -500 -250  500 -250  500 250  -500 250))
       (pin RoundRect[T]Pad_560.000000x620.000000_140.533000_um_0.000000_0 1 -480 0)
       (pin RoundRect[T]Pad_560.000000x620.000000_140.533000_um_0.000000_0 2 480 0)
     )
     (image "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
-      (outline (polygon signal 0  -4395 -3595  -4395 3595  4395 3595  4395 -3595))
+      (outline (polygon signal 0  4395 -3595  -4395 -3595  -4395 3595  4395 3595))
       (outline (path signal 120  1910 3410  1910 2150))
       (outline (path signal 120  -1850 3410  1910 3410))
       (outline (path signal 120  1910 -3410  1910 -2150))
@@ -339,7 +391,7 @@
       (pin RoundRect[T]Pad_2000.000000x1500.000000_376.427000_um_0.000000_0 3 -3150 -2300)
     )
     (image SamacSys_Parts:BLM18EG101TH1D
-      (outline (polygon signal 0  1470 -745  -1470 -745  -1470 745  1470 745))
+      (outline (polygon signal 0  1470 745  1470 -745  -1470 -745  -1470 745))
       (outline (path signal 200  0 300  0 -300))
       (outline (path signal 100  -800 400  800 400))
       (outline (path signal 100  -800 -400  -800 400))
@@ -348,8 +400,32 @@
       (pin Rect[T]Pad_650.000000x700.000000_um 1 -675 0)
       (pin Rect[T]Pad_650.000000x700.000000_um 2 675 0)
     )
+    (image Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder::5
+      (outline (polygon signal 0  1875 975  1875 -975  -1875 -975  -1875 975))
+      (outline (path signal 120  -261.252 735  261.252 735))
+      (outline (path signal 120  -261.252 -735  261.252 -735))
+      (outline (path signal 100  -1000 625  -1000 -625  1000 -625  1000 625  -1000 625))
+      (pin RoundRect[T]Pad_1175.000000x1450.000000_250.951000_um_0.000000_0 1 -1037.5 0)
+      (pin RoundRect[T]Pad_1175.000000x1450.000000_250.951000_um_0.000000_0 2 1037.5 0)
+    )
+    (image "Package_TO_SOT_SMD:SOT-223-3_TabPin2::1"
+      (outline (polygon signal 0  -4395 3595  4395 3595  4395 -3595  -4395 -3595))
+      (outline (path signal 120  1910 3410  1910 2150))
+      (outline (path signal 120  -1850 3410  1910 3410))
+      (outline (path signal 120  1910 -3410  1910 -2150))
+      (outline (path signal 120  -1850 -3410  1910 -3410))
+      (outline (path signal 100  1850 3350  1850 -3350))
+      (outline (path signal 100  -850 3350  1850 3350))
+      (outline (path signal 100  -1850 2350  -850 3350))
+      (outline (path signal 100  -1850 2350  -1850 -3350))
+      (outline (path signal 100  -1850 -3350  1850 -3350))
+      (pin RoundRect[T]Pad_2000.000000x1500.000000_376.427000_um_0.000000_0 1 -3150 2300)
+      (pin RoundRect[T]Pad_2000.000000x1500.000000_376.427000_um_0.000000_0 2 -3150 0)
+      (pin RoundRect[T]Pad_2000.000000x3800.000000_501.903000_um_0.000000_0 2@1 3150 0)
+      (pin RoundRect[T]Pad_2000.000000x1500.000000_376.427000_um_0.000000_0 3 -3150 -2300)
+    )
     (image LMS7002M:AQFN261_11P5X11P5_LIM
-      (outline (polygon signal 0  6002.1 -6002.1  -6002.1 -6002.1  -6002.1 6002.1  6002.1 6002.1))
+      (outline (polygon signal 0  -6002.1 6002.1  6002.1 6002.1  6002.1 -6002.1  -6002.1 -6002.1))
       (outline (path signal 152.4  -5880.1 5880.1  -5880.1 5163.11))
       (outline (path signal 152.4  -5880.1 4493.89  -5880.1 3831.11))
       (outline (path signal 152.4  -5880.1 2495.89  -5880.1 1833.11))
@@ -1238,14 +1314,38 @@
       (keepout "" (circle In4.Cu 1650 3750 3235))
       (keepout "" (circle B.Cu 1650 3750 3235))
     )
+    (image "Package_TO_SOT_SMD:SOT-223-3_TabPin2::2"
+      (outline (polygon signal 0  -4395 -3595  -4395 3595  4395 3595  4395 -3595))
+      (outline (path signal 120  1910 3410  1910 2150))
+      (outline (path signal 120  -1850 3410  1910 3410))
+      (outline (path signal 120  1910 -3410  1910 -2150))
+      (outline (path signal 120  -1850 -3410  1910 -3410))
+      (outline (path signal 100  1850 3350  1850 -3350))
+      (outline (path signal 100  -850 3350  1850 3350))
+      (outline (path signal 100  -1850 2350  -850 3350))
+      (outline (path signal 100  -1850 2350  -1850 -3350))
+      (outline (path signal 100  -1850 -3350  1850 -3350))
+      (pin RoundRect[T]Pad_2000.000000x1500.000000_376.427000_um_0.000000_0 1 -3150 2300)
+      (pin RoundRect[T]Pad_2000.000000x1500.000000_376.427000_um_0.000000_0 2 -3150 0)
+      (pin RoundRect[T]Pad_2000.000000x3800.000000_501.903000_um_0.000000_0 2@1 3150 0)
+      (pin RoundRect[T]Pad_2000.000000x1500.000000_376.427000_um_0.000000_0 3 -3150 -2300)
+    )
     (image SamacSys_Parts:CAPC1608X90N
-      (outline (polygon signal 0  1220 -615  -1220 -615  -1220 615  1220 615))
+      (outline (polygon signal 0  1220 615  1220 -615  -1220 -615  -1220 615))
       (outline (path signal 100  -800 400  800 400))
       (outline (path signal 100  -800 -400  -800 400))
       (outline (path signal 100  800 400  800 -400))
       (outline (path signal 100  800 -400  -800 -400))
       (pin Rect[T]Pad_750.000000x940.000000_um 1 -700 0)
       (pin Rect[T]Pad_750.000000x940.000000_um 2 700 0)
+    )
+    (image Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder::6
+      (outline (polygon signal 0  -1875 975  1875 975  1875 -975  -1875 -975))
+      (outline (path signal 120  -261.252 735  261.252 735))
+      (outline (path signal 120  -261.252 -735  261.252 -735))
+      (outline (path signal 100  -1000 625  1000 625  1000 -625  -1000 -625  -1000 625))
+      (pin RoundRect[T]Pad_1175.000000x1450.000000_250.951000_um_0.000000_0 1 -1037.5 0)
+      (pin RoundRect[T]Pad_1175.000000x1450.000000_250.951000_um_0.000000_0 2 1037.5 0)
     )
     (image SamacSys_Parts:PEC164120FS0012
       (outline (polygon signal 0  15625 -2995  -5625 -2995  -5625 19795  15625 19795))
@@ -1322,8 +1422,16 @@
       (pin Rect[T]Pad_300.000000x900.000000_um 32 -1750 2450)
       (pin Rect[T]Pad_3450.000000x3450.000000_um 33 0 0)
     )
+    (image Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder::7
+      (outline (polygon signal 0  1875 -975  -1875 -975  -1875 975  1875 975))
+      (outline (path signal 120  -261.252 735  261.252 735))
+      (outline (path signal 120  -261.252 -735  261.252 -735))
+      (outline (path signal 100  -1000 625  1000 625  1000 -625  -1000 -625  -1000 625))
+      (pin RoundRect[T]Pad_1175.000000x1450.000000_250.951000_um_0.000000_0 1 -1037.5 0)
+      (pin RoundRect[T]Pad_1175.000000x1450.000000_250.951000_um_0.000000_0 2 1037.5 0)
+    )
     (image SamacSys_Parts:CAPC1005X70N
-      (outline (polygon signal 0  905 -455  -905 -455  -905 455  905 455))
+      (outline (polygon signal 0  905 455  905 -455  -905 -455  -905 455))
       (outline (path signal 100  -500 250  500 250))
       (outline (path signal 100  -500 -250  -500 250))
       (outline (path signal 100  500 250  500 -250))
@@ -1331,8 +1439,24 @@
       (pin Rect[T]Pad_600.000000x620.000000_um 1 -460 0)
       (pin Rect[T]Pad_600.000000x620.000000_um 2 460 0)
     )
+    (image "Package_TO_SOT_SMD:SOT-223-3_TabPin2::3"
+      (outline (polygon signal 0  4395 3595  4395 -3595  -4395 -3595  -4395 3595))
+      (outline (path signal 120  1910 3410  1910 2150))
+      (outline (path signal 120  -1850 3410  1910 3410))
+      (outline (path signal 120  1910 -3410  1910 -2150))
+      (outline (path signal 120  -1850 -3410  1910 -3410))
+      (outline (path signal 100  1850 3350  1850 -3350))
+      (outline (path signal 100  -850 3350  1850 3350))
+      (outline (path signal 100  -1850 2350  -850 3350))
+      (outline (path signal 100  -1850 2350  -1850 -3350))
+      (outline (path signal 100  -1850 -3350  1850 -3350))
+      (pin RoundRect[T]Pad_2000.000000x1500.000000_376.427000_um_0.000000_0 1 -3150 2300)
+      (pin RoundRect[T]Pad_2000.000000x1500.000000_376.427000_um_0.000000_0 2 -3150 0)
+      (pin RoundRect[T]Pad_2000.000000x3800.000000_501.903000_um_0.000000_0 2@1 3150 0)
+      (pin RoundRect[T]Pad_2000.000000x1500.000000_376.427000_um_0.000000_0 3 -3150 -2300)
+    )
     (image SamacSys_Parts:5033981892
-      (outline (polygon signal 0  14375 -15325  -1275 -15325  -1275 995  14375 995))
+      (outline (polygon signal 0  -1275 995  14375 995  14375 -15325  -1275 -15325))
       (outline (path signal 200  0 0  2849 0))
       (outline (path signal 200  0 -2650  0 -10648))
       (outline (path signal 200  740 -14050  1600 -14050))
@@ -1376,12 +1500,12 @@
       (pin Rect[T]Pad_700.000000x3330.000000_um 14 70 -12665)
     )
     (image SamacSys_Parts:T494D
-      (outline (polygon signal 0  5100 -3145  -5100 -3145  -5100 3145  5100 3145))
+      (outline (polygon signal 0  5100 3145  5100 -3145  -5100 -3145  -5100 3145))
       (outline (path signal 100  -3650 2150  3650 2150))
       (outline (path signal 100  3650 -2150  -3650 -2150))
-      (outline (path signal 200  -4670 0  -4681.7 -32.139  -4711.32 -49.24  -4745 -43.301
-            -4766.98 -17.101  -4766.98 17.101  -4745 43.301  -4711.32 49.24
-            -4681.7 32.139  -4670 0))
+      (outline (path signal 200  -4720 50  -4687.86 38.302  -4670.76 8.682  -4676.7 -25
+            -4702.9 -46.985  -4737.1 -46.985  -4763.3 -25  -4769.24 8.682
+            -4752.14 38.302  -4720 50))
       (outline (path signal 200  -3650 2150  3650 2150))
       (outline (path signal 200  -3650 -2150  -3650 2150))
       (outline (path signal 200  3650 2150  3650 -2150))
@@ -1569,36 +1693,36 @@
       (pins C34-1 C33-1 U1-A13 U1-B10 U1-D14 U1-E11 U1-R11 C36-1 C35-1)
     )
     (net GND
-      (pins C34-2 C23-2 IC2-A9 IC2-B1 IC2-B3 IC2-B9 IC2-D1 IC2-D8 IC2-E1 IC2-E2 IC2-E8
-        IC2-F9 IC2-G1 IC2-G8 IC2-G9 IC2-J2 IC2-J8 IC2-M1 IC2-M9 IC2-P1 IC2-P9 IC2-T1
-        IC2-T9 C48-2 C53-2 R2-2 C14-2 C46-2 C42-2 C60-2 C17-2 C12-2 C47-2 U4-1 C39-2
-        C25-2 C33-2 C26-2 C22-2 C18-2 C43-2 R6-2 C29-2 U7-1 C49-2 U2-262 U2-AF32 U2-AG29
-        U2-AJ19 U2-AK20 U2-AL23 U2-AN25 U2-B18 U2-B20 U2-C7 U2-C23 U2-C25 U2-D20 U2-E25
-        U2-F6 U2-G31 U2-H2 U2-J33 U2-K4 U2-L3 U2-N3 U2-T30 U2-W29 U2-Y30 C44-2 C54-2
-        C63-2 C28-2 C45-2 C55-2 C59-2 C19-2 IC1-A9 IC1-B1 IC1-B3 IC1-B9 IC1-D1 IC1-D8
-        IC1-E1 IC1-E2 IC1-E8 IC1-F9 IC1-G1 IC1-G8 IC1-G9 IC1-J2 IC1-J8 IC1-M1 IC1-M9
-        IC1-P1 IC1-P9 IC1-T1 IC1-T9 U1-A8 U1-A18 U1-AA1 U1-AA6 U1-AA10 U1-AA18 U1-AB2
-        U1-AB4 U1-AB8 U1-AB10 U1-AB15 U1-B5 U1-B15 U1-C2 U1-C12 U1-C22 U1-D9 U1-D19
-        U1-E6 U1-E16 U1-F3 U1-F13 U1-G10 U1-G20 U1-H7 U1-H13 U1-H15 U1-H17 U1-J4 U1-J10
-        U1-J12 U1-J14 U1-K1 U1-K9 U1-K11 U1-K13 U1-K15 U1-K21 U1-L8 U1-L10 U1-L14
-        U1-L18 U1-M5 U1-M9 U1-M13 U1-M15 U1-N2 U1-N10 U1-N14 U1-N22 U1-P9 U1-P11 U1-P13
-        U1-P15 U1-P19 U1-R6 U1-R12 U1-R14 U1-R16 U1-T3 U1-T4 U1-T5 U1-T6 U1-T7 U1-T8
-        U1-T13 U1-U3 U1-U10 U1-U20 U1-V1 U1-V2 U1-V3 U1-V4 U1-V6 U1-V8 U1-V17 U1-W1
-        U1-W7 U1-W10 U1-W14 U1-Y1 U1-Y3 U1-Y5 U1-Y9 U1-Y10 U1-Y11 U1-Y21 C58-2 C21-2
-        U5-1 C5-2 C52-2 C32-2 C6-2 C10-2 C15-2 C36-2 C27-2 C51-2 C13-2 C50-2 C11-2
-        C16-2 C62-2 C61-2 C41-2 U6-1 C7-2 C2-2 R4-2 C3-2 C4-2 C35-2 C40-2 C31-2 C8-2
-        C9-2 C56-2 J1-6 C37-2 C24-2 C1-2 C30-2 C20-2 C38-2 C57-2)
+      (pins C38-2 C31-2 C45-2 C52-2 C63-2 C53-2 C62-2 C34-2 C25-2 C33-2 C19-2 C44-2
+        C15-2 C3-2 C8-2 C16-2 C50-2 C40-2 C30-2 C9-2 C37-2 C24-2 C2-2 C23-2 IC2-A9
+        IC2-B1 IC2-B3 IC2-B9 IC2-D1 IC2-D8 IC2-E1 IC2-E2 IC2-E8 IC2-F9 IC2-G1 IC2-G8
+        IC2-G9 IC2-J2 IC2-J8 IC2-M1 IC2-M9 IC2-P1 IC2-P9 IC2-T1 IC2-T9 C48-2 R2-2
+        C14-2 C46-2 C42-2 C60-2 C17-2 C12-2 C47-2 U4-1 C39-2 C26-2 C22-2 C18-2 C43-2
+        R6-2 C29-2 U7-1 C49-2 U2-262 U2-AF32 U2-AG29 U2-AJ19 U2-AK20 U2-AL23 U2-AN25
+        U2-B18 U2-B20 U2-C7 U2-C23 U2-C25 U2-D20 U2-E25 U2-F6 U2-G31 U2-H2 U2-J33
+        U2-K4 U2-L3 U2-N3 U2-T30 U2-W29 U2-Y30 C54-2 C28-2 C55-2 C59-2 IC1-A9 IC1-B1
+        IC1-B3 IC1-B9 IC1-D1 IC1-D8 IC1-E1 IC1-E2 IC1-E8 IC1-F9 IC1-G1 IC1-G8 IC1-G9
+        IC1-J2 IC1-J8 IC1-M1 IC1-M9 IC1-P1 IC1-P9 IC1-T1 IC1-T9 U1-A8 U1-A18 U1-AA1
+        U1-AA6 U1-AA10 U1-AA18 U1-AB2 U1-AB4 U1-AB8 U1-AB10 U1-AB15 U1-B5 U1-B15 U1-C2
+        U1-C12 U1-C22 U1-D9 U1-D19 U1-E6 U1-E16 U1-F3 U1-F13 U1-G10 U1-G20 U1-H7 U1-H13
+        U1-H15 U1-H17 U1-J4 U1-J10 U1-J12 U1-J14 U1-K1 U1-K9 U1-K11 U1-K13 U1-K15
+        U1-K21 U1-L8 U1-L10 U1-L14 U1-L18 U1-M5 U1-M9 U1-M13 U1-M15 U1-N2 U1-N10 U1-N14
+        U1-N22 U1-P9 U1-P11 U1-P13 U1-P15 U1-P19 U1-R6 U1-R12 U1-R14 U1-R16 U1-T3
+        U1-T4 U1-T5 U1-T6 U1-T7 U1-T8 U1-T13 U1-U3 U1-U10 U1-U20 U1-V1 U1-V2 U1-V3
+        U1-V4 U1-V6 U1-V8 U1-V17 U1-W1 U1-W7 U1-W10 U1-W14 U1-Y1 U1-Y3 U1-Y5 U1-Y9
+        U1-Y10 U1-Y11 U1-Y21 C58-2 C21-2 U5-1 C5-2 C32-2 C6-2 C10-2 C36-2 C27-2 C51-2
+        C13-2 C11-2 C61-2 C41-2 U6-1 C7-2 R4-2 C4-2 C35-2 C56-2 J1-6 C1-2 C20-2 C57-2)
     )
     (net PS_DDR_VREF1
       (pins C23-1 R3-2 R4-1)
     )
     (net VCCO_DDR
-      (pins IC2-A1 IC2-A8 IC2-B2 IC2-C1 IC2-C9 IC2-D2 IC2-D9 IC2-E9 IC2-F1 IC2-G7
-        IC2-H2 IC2-H9 IC2-K2 IC2-K8 IC2-N1 IC2-N9 IC2-R1 IC2-R9 C60-1 C25-1 C26-1
-        C29-1 R3-1 C54-1 C63-1 C28-1 C55-1 C59-1 IC1-A1 IC1-A8 IC1-B2 IC1-C1 IC1-C9
-        IC1-D2 IC1-D9 IC1-E9 IC1-F1 IC1-G7 IC1-H2 IC1-H9 IC1-K2 IC1-K8 IC1-N1 IC1-N9
-        IC1-R1 IC1-R9 U1-E21 U1-F18 U1-H22 U1-J19 U1-K16 U1-M20 U1-N17 U1-R21 U1-V22
-        C58-1 C27-1 R1-1 C62-1 C61-1 C56-1 C24-1 C57-1)
+      (pins C63-1 C62-1 C25-1 C24-1 IC2-A1 IC2-A8 IC2-B2 IC2-C1 IC2-C9 IC2-D2 IC2-D9
+        IC2-E9 IC2-F1 IC2-G7 IC2-H2 IC2-H9 IC2-K2 IC2-K8 IC2-N1 IC2-N9 IC2-R1 IC2-R9
+        C60-1 C26-1 C29-1 R3-1 C54-1 C28-1 C55-1 C59-1 IC1-A1 IC1-A8 IC1-B2 IC1-C1
+        IC1-C9 IC1-D2 IC1-D9 IC1-E9 IC1-F1 IC1-G7 IC1-H2 IC1-H9 IC1-K2 IC1-K8 IC1-N1
+        IC1-N9 IC1-R1 IC1-R9 U1-E21 U1-F18 U1-H22 U1-J19 U1-K16 U1-M20 U1-N17 U1-R21
+        U1-V22 C58-1 C27-1 R1-1 C61-1 C56-1 C57-1)
     )
     (net DQU5_1
       (pins IC2-A2 U1-W20)
@@ -1772,10 +1896,10 @@
       (pins IC2-T8 IC1-T8 U1-J18)
     )
     (net VCCAUX
-      (pins C48-1 C46-1 C42-1 C17-1 C47-1 C39-1 FB1-1 C18-1 C43-1 C49-1 C44-1 C45-1
-        C19-1 U1-A3 U1-B20 U1-C7 U1-C17 U1-D4 U1-E1 U1-F8 U1-G5 U1-H2 U1-K6 U1-K14
-        U1-L3 U1-L13 U1-M14 U1-N7 U1-N13 U1-P4 U1-P12 U1-P14 U1-R1 U1-R13 U1-T12 C21-1
-        C32-1 C15-1 C16-1 C41-1 R5-2 C40-1 C31-1 C37-1 C30-1 C20-1 C38-1)
+      (pins C38-1 C31-1 C45-1 C19-1 C44-1 C15-1 C16-1 C40-1 C30-1 C37-1 C48-1 C46-1
+        C42-1 C17-1 C47-1 C39-1 FB1-1 C18-1 C43-1 C49-1 U1-A3 U1-B20 U1-C7 U1-C17
+        U1-D4 U1-E1 U1-F8 U1-G5 U1-H2 U1-K6 U1-K14 U1-L3 U1-L13 U1-M14 U1-N7 U1-N13
+        U1-P4 U1-P12 U1-P14 U1-R1 U1-R13 U1-T12 C21-1 C32-1 C41-1 R5-2 C20-1)
     )
     (net VDD_1V8_LDO
       (pins C53-1 U7-2 U7-2@1 U2-AF4 U2-N1)
@@ -1784,13 +1908,13 @@
       (pins R2-1 C22-1 R1-2)
     )
     (net VCCINT
-      (pins C14-1 C12-1 U1-G13 U1-G15 U1-H14 U1-J9 U1-J11 U1-J15 U1-K10 U1-L9 U1-L15
-        U1-M10 U1-N9 U1-N15 U1-P10 U1-R9 U1-R15 C5-1 C6-1 C13-1 C7-1 C2-1 C3-1 C4-1
-        C8-1 C9-1 C1-1)
+      (pins C3-1 C8-1 C9-1 C2-1 C14-1 C12-1 U1-G13 U1-G15 U1-H14 U1-J9 U1-J11 U1-J15
+        U1-K10 U1-L9 U1-L15 U1-M10 U1-N9 U1-N15 U1-P10 U1-R9 U1-R15 C5-1 C6-1 C13-1
+        C7-1 C4-1 C1-1)
     )
     (net VDD_1V8
-      (pins U4-2 U4-2@1 U2-AE3 U2-AK22 U2-AM18 U2-AM26 U2-D16 U2-D24 U2-E17 U2-E21
-        U2-G3 C50-1)
+      (pins C50-1 U4-2 U4-2@1 U2-AE3 U2-AK22 U2-AM18 U2-AM26 U2-D16 U2-D24 U2-E17
+        U2-E21 U2-G3)
     )
     (net +2V0
       (pins U4-3 U7-3 U5-3 U6-3)
